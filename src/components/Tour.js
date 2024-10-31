@@ -4,7 +4,7 @@ const Tour = ({ id, image, title, date, info, location, duration, cost }) => {
   return (
     <article key={id} className="tour-card">
       <div className="tour-img-container">
-        <img src={image} className="tour-img" alt={title} />
+        <img src={image} className="tour-img" alt={'Tracy Reuther'} />
         <p className="tour-date">{date}</p>
       </div>
       <div className="tour-info">

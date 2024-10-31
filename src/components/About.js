@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutImg from '../images/about.jpeg';
+import aboutImg from '../images/tracy-reuther-12.jpg';
 import Title from './Title';
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
 
         <div className="section-center about-center">
           <div className="about-img">
-            <img src={aboutImg} className="about-photo" alt="awesome beach" />
+            <img src={aboutImg} className="about-photo" alt="Tracy Reuther" />
           </div>
           <article className="about-info">
             <h3>explore the difference</h3>
