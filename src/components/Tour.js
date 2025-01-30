@@ -22,6 +22,7 @@ const Tour = ({ id, image, title, date, info, location, duration, cost }) => {
           <p>{duration} days</p>
           <p>starting at ${cost}</p>
           <p>prices vary</p>
+          <p>Please see details</p>
         </div>
       </div>
     </article>
