@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero-banner">
           <h1>backroads app</h1>
           <p>
-            Lorem ipsumish dolorish sitish amet consectetur adipisicing elit.
+            Lorem ipsumish dolor sitism ametish consectetur adipisicing elit.
             Vitae explicabo debitis est autem dicta.
           </p>
           <a href="#tours" className="btn hero-btn">
